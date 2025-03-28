@@ -1,1 +1,2 @@
 # ARTIFICIAL-NEURAL-NETWORK
+# Artificial neural networks (ANNs) are a type of machine learning model that are inspired by the structure and function of the human brain. These networks consist of interconnected nodes, or artificial neurons, that are organized into layers and trained on large datasets to perform complex tasks such as image recognition, natural language processing, and predictive modeling.
